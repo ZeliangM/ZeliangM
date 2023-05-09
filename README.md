@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Zeliang.
 - 👀 I’m interested in CT(computer tomography) and deeplearning
+- stay foolish,stay hungry
 
 
 <!---
